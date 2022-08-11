@@ -57,7 +57,7 @@ img {
 .contact-item__delete {
   padding: 8px;
   font-size: 18px;
-  border-color: orangered;
+  background-color: orangered;
   color: white;
   border: 0;
   border-radius: 4px;
